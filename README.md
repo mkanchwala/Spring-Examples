@@ -4,3 +4,6 @@
 
 
 2) Spring-FB-Int : Sample Project to Integrate the Spring 4 with Facebook Social and Boot
+
+
+3) Angular-REST : Sample Project to show the AngularJS integration with Spring
